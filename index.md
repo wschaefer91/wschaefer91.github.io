@@ -8,3 +8,8 @@ Thanos is a fictional supervillain appearing in American comic books published b
 * Abilities:
   * Superhuman strength
   * Skilled hand-to-hand combatant
+  
+As Thanos said:
+
+> I am... inevitable. 
+> The work is done. I won. What I'm about to do, I'm gonna enjoy it. Very, very much! 
